@@ -17,9 +17,6 @@ public class Main
 
 
 
-        double b;
-        double c;
-
             capital = Double.parseDouble(JOptionPane.showInputDialog("Ingrese el Capital: "));
 
 
